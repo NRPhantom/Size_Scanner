@@ -1,3 +1,8 @@
+# How to download:
+1 - Download the part_1 + 2 + 3
+2 - Extract them all
+3 - you have the program now!
+
 # Tutorial:
 1 - Drop the Size_Scanner.exe file in the "folder" that you want to scan
 2 - Open it
